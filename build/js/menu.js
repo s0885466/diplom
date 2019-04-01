@@ -1,0 +1,1 @@
+"use strict";$(document).ready(function(){var a=$("div.hidden").data("currentid");$("li").removeClass("active"),$("li").find("a").removeClass("text-white"),$("li").find("a").addClass("text-secondary"),$("[data-li="+a+"]").addClass("active"),$("[data-li="+a+"]").find("a").addClass("text-white"),$("[data-li="+a+"]").find("a").removeClass("text-secondary")});

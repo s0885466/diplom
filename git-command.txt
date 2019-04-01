@@ -1,0 +1,7 @@
+git init - создаем git в папке
+echo >> README.md - создадим файл readme
+Регистрация
+git config --local user.name "Aleksandr"
+git config --local user.email "0885466@gmail.com"
+git add -A -добавить все файлы
+git status - проверяем статус
