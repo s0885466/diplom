@@ -6,3 +6,5 @@ git config --local user.email "0885466@gmail.com"
 git add -A -добавить все файлы
 git status - проверяем статус
 git commit -a -m "commit 01.04.2019 18:53"
+git remote add origin https://github.com/s0885466/diplom.git - добавляем путь к удаленному репозиторию
+git push -u origin master - пушим файлы в удаленный репозиторий
