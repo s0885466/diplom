@@ -5,3 +5,4 @@ git config --local user.name "Aleksandr"
 git config --local user.email "0885466@gmail.com"
 git add -A -добавить все файлы
 git status - проверяем статус
+git commit -a -m "commit 01.04.2019 18:53"
